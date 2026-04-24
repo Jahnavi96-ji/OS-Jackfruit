@@ -27,28 +27,28 @@ OS-Jackfruit is a mini container runtime that mimics core Docker functionality u
 ## Screenshots
 
 ### Screenshot 1 — Two Containers Running
-![Two Containers Running](screenshots/screenshot1_two_containers_running.png)
+![Two Containers Running](screenshots/s1_two_containers_running.png)
 
 ### Screenshot 2 — CLI ps with Metadata
-![PS Metadata](screenshots/screenshot2_ps_metadata.png)
+![PS Metadata](screenshots/s2_ps_metadata.png)
 
 ### Screenshot 3 — Log Output
-![Log Output](screenshots/screenshot3_logs_output.png)
+![Log Output](screenshots/s3_logs_output.png)
 
 ### Screenshot 4 — Stop Containers
-![Stop Containers](screenshots/screenshot4_stop_containers.png)
+![Stop Containers](screenshots/s4_stop_containers.png)
 
 ### Screenshot 5 — Soft Limit in dmesg
-![Soft Limit](screenshots/screenshot5_soft_limit_dmesg.png)
+![Soft Limit](screenshots/s5_soft_limit_and_hard_limit_dmesg.png)
 
 ### Screenshot 6 — Hard Limit + Container Killed
-![Hard Limit](screenshots/screenshot6_hard_limit_killed.png)
+![Hard Limit](screenshots/s6_hard_limit_killed.png)
 
 ### Screenshot 7 — Scheduling Difference
-![Scheduling](screenshots/screenshot7_scheduling_difference.png)
+![Scheduling](screenshots/s7a_cpu_normal.png)
 
 ### Screenshot 8 — No Zombies
-![No Zombies](screenshots/screenshot8_no_zombies.png)
+![No Zombies](screenshots/s8_no_zombies.png)
 
 ---
 
