@@ -5,7 +5,28 @@ A lightweight Linux container runtime in C with a long-running supervisor and a 
 Read [`project-guide.md`](project-guide.md) for the full project specification.
 
 ---
+# OS-Jackfruit — Mini Container Runtime
 
+## Team Details
+
+| Name | SRN | GitHub |
+|------|-----|--------|
+| Jahnavi | PES1UG24CS196 | Jahnavi96-ji |
+| Rishitha Radhae J | PES1UG24CS193 | rishii2908 |
+
+
+## Project Overview
+A mini Docker-like container runtime built in C with:
+- User-space runtime (engine.c) — namespaces, chroot, CLI, logging
+- Kernel module (monitor.c) — memory monitoring via ioctl
+
+## Tasks Completed
+- Task 1: Multi-container supervisor
+- Task 2: CLI (start, stop, ps, logs)
+- Task 3: Bounded-buffer logging
+- Task 4: Kernel module memory monitor
+- Task 5: Scheduling experiments
+- Task 6: Clean teardown
 ## Getting Started
 
 ### 1. Fork the Repository
